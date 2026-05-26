@@ -14,7 +14,7 @@ For teams using Cohesity data security practices, cohesity datahawk discovery ca
 
 The experience is built around clarity rather than noise. A data security platform should help teams prioritize risk, validate coverage, and move from investigation to action. DataHawk brings together a cyber resilience platform approach with data compliance platform reporting so teams can make informed decisions about security posture, governance readiness, and operational resilience.
 
-![Interface DataHawk](https://jordiob.com/amazon-tools/wp-content/uploads/2020/10/datahawk-rank-tracker.png)
+![Interface DataHawk](https://orangeklik.com/wp-content/uploads/2018/10/03-DataHawk-History-of-Products-Metrics-Interface-1.png)
 
 ---
 
